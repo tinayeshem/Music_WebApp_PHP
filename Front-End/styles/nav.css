@@ -1,0 +1,23 @@
+
+
+
+
+
+
+.nav-container{
+    display:flex;
+    background-color:brown;
+    justify-content: space-between ;
+    
+}
+
+li{
+    list-style: none;
+}
+
+.links{
+    display: flex;
+    justify-content: space;
+    gap :2rem;
+    
+}
